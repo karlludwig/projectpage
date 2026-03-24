@@ -1,0 +1,22 @@
+.mytext {
+    font-size: 20pt;
+    width: 100vw;
+    text-align: center;
+}
+
+#mysvg {
+    width: 10vw;
+}
+
+.myimage {
+    width: 20vw;
+}
+
+@font-face {
+    font-family: myFirstFont;
+    src: url(../fonts/Alfa_Slab_One/AlfaSlabOne-Regular.ttf);
+}
+
+.myfont {
+    font-family: 'myFirstFont';
+}
